@@ -8,8 +8,8 @@ Game XO, hay còn gọi là Tic-Tac-Toe, là một trò chơi trí tuệ đơn g
   - Dùng con trỏ chuột. 
 
 - *Mục tiêu*:
-  - Mỗi người chơi cố gắng sắp xếp 3 ký hiệu của mình (X hoặc O) trên một hàng ngang, hàng dọc, hoặc đường chéo trên bảng.
-  - Người chơi nào hoàn thành được 3 ký hiệu liên tiếp trước sẽ thắng cuộc.
+  - Mỗi người chơi cố gắng sắp xếp 3 hoặc 5 ký hiệu của mình (X hoặc O) trên một hàng ngang, hàng dọc, hoặc đường chéo trên bảng.
+  - Người chơi nào hoàn thành được 3 hoặc 5 ký hiệu liên tiếp trước sẽ thắng cuộc.
 
 ## Cài đặt
 
